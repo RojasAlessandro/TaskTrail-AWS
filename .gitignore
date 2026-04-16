@@ -1,0 +1,10 @@
+node_modules/
+dist/
+cdk.out/
+.env
+.env.*
+.DS_Store
+Thumbs.db
+coverage/
+*.log
+.vscode/
