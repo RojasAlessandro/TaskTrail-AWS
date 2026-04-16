@@ -81,18 +81,18 @@ By building this project, I want to learn how to:
 ## Milestones
 
 ### Milestone 0 - Project Setup
-- [ ] Create project folder
-- [ ] Initialize Git repository
-- [ ] Create README.md
-- [ ] Add `.gitignore`
-- [ ] Create docs, backend, frontend, and infrastructure folders
-- [ ] Add initial journal and decision files
+- [x] Create project folder
+- [x] Initialize Git repository
+- [x] Create README.md
+- [x] Add `.gitignore`
+- [x] Create docs, backend, frontend, and infrastructure folders
+- [x] Add initial journal and decision files
 
 ### Milestone 1 - Architecture Design
-- [ ] Create architecture diagram
-- [ ] List the purpose of each AWS service
-- [ ] Document the request flow
-- [ ] Save diagram in `docs/architecture`
+- [x] Create architecture diagram
+- [x] List the purpose of each AWS service
+- [x] Document the request flow
+- [x] Save diagram in `docs/architecture`
 
 ### Milestone 2 - Infrastructure Setup
 - [ ] Install AWS CLI
@@ -199,10 +199,10 @@ Before deploying resources, I should:
 ---
 
 ## Current Status
-- [ ] Repository structure created
-- [ ] README completed
-- [ ] Initial documentation added
-- [ ] Architecture diagram started
+- [x] Repository structure created
+- [x] README completed
+- [x] Initial documentation added
+- [x] Architecture diagram started
 - [ ] CDK initialized
 - [ ] First AWS resource deployed
 
