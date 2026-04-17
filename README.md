@@ -105,20 +105,20 @@ By building this project, I want to learn how to:
 - [x] Create first CDK stack
 - [x] Add an S3 bucket or DynamoDB table
 - [ ] Deploy first safe test resource
-- [x] Learn how `cdk synth`, `cdk diff`, and `cdk deploy` work
+- [ ] Learn how `cdk synth`, `cdk diff`, and `cdk deploy` work
 
 ### Milestone 4 - Database Layer
 - [ ] Create DynamoDB table for tasks
-- [ ] Decide task item structure
-- [ ] Learn partition key design
-- [ ] Document why DynamoDB was chosen
+- [x] Decide task item structure
+- [x] Learn partition key design
+- [x] Document why DynamoDB was chosen
 
 ### Milestone 5 - Backend API
-- [ ] Create Lambda function
+- [x] Create Lambda function
 - [ ] Connect Lambda to API Gateway
 - [ ] Add first test route
-- [ ] Return a simple JSON response
-- [ ] Document how requests flow through the backend
+- [x] Return a simple JSON response
+- [x] Document how requests flow through the backend
 
 ### Milestone 6 - Task CRUD
 - [ ] Add create task endpoint
@@ -202,8 +202,9 @@ Before deploying resources, I should:
 - [x] Repository structure created
 - [x] README completed
 - [x] Initial documentation added
-- [x] Architecture diagram started
-- [ ] CDK initialized
+- [x] Architecture diagram created
+- [x] CDK initialized
+- [x] First AWS resources defined locally
 - [ ] First AWS resource deployed
 
 ---
