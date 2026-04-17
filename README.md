@@ -96,16 +96,16 @@ By building this project, I want to learn how to:
 
 ### Milestone 2 - Infrastructure Setup
 - [ ] Install AWS CLI
-- [ ] Install AWS CDK
-- [ ] Initialize CDK project in `infrastructure/`
-- [ ] Understand the generated CDK project structure
-- [ ] Make first infrastructure commit
+- [x] Install AWS CDK
+- [x] Initialize CDK project in `infrastructure/`
+- [x] Understand the generated CDK project structure
+- [x] Make first infrastructure commit
 
 ### Milestone 3 - First AWS Resources
-- [ ] Create first CDK stack
-- [ ] Add an S3 bucket or DynamoDB table
+- [x] Create first CDK stack
+- [x] Add an S3 bucket or DynamoDB table
 - [ ] Deploy first safe test resource
-- [ ] Learn how `cdk synth`, `cdk diff`, and `cdk deploy` work
+- [x] Learn how `cdk synth`, `cdk diff`, and `cdk deploy` work
 
 ### Milestone 4 - Database Layer
 - [ ] Create DynamoDB table for tasks
